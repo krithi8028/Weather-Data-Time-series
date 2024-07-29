@@ -1,0 +1,523 @@
+,Time,Temp,Weather,Wind,Humidity,Barometer
+0,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+1,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+2,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+3,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+4,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+5,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+6,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+7,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+8,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+9,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+10,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+11,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+12,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+13,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+14,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+15,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+16,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+17,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+18,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+19,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+20,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+21,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+22,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+23,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+24,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+25,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+26,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+27,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+28,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+29,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+30,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+31,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+32,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+33,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+34,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+35,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+36,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+37,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+38,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+39,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+40,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+41,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+42,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+43,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+44,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+45,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+46,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+47,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+48,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+49,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+50,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+51,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+52,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+53,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+54,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+55,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+56,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+57,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+58,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+59,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+60,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+61,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+62,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+63,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+64,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+65,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+66,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+67,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+68,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+69,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+70,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+71,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+72,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+73,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+74,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+75,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+76,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+77,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+78,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+79,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+80,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+81,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+82,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+83,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+84,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+85,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+86,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+87,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+88,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+89,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+90,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+91,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+92,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+93,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+94,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+95,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+96,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+97,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+98,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+99,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+100,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+101,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+102,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+103,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+104,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+105,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+106,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+107,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+108,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+109,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+110,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+111,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+112,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+113,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+114,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+115,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+116,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+117,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+118,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+119,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+120,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+121,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+122,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+123,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+124,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+125,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+126,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+127,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+128,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+129,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+130,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+131,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+132,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+133,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+134,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+135,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+136,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+137,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+138,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+139,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+140,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+141,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+142,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+143,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+144,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+145,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+146,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+147,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+148,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+149,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+150,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+151,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+152,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+153,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+154,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+155,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+156,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+157,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+158,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+159,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+160,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+161,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+162,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+163,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+164,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+165,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+166,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+167,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+168,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+169,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+170,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+171,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+172,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+173,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+174,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+175,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+176,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+177,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+178,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+179,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+180,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+181,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+182,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+183,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+184,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+185,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+186,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+187,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+188,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+189,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+190,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+191,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+192,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+193,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+194,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+195,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+196,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+197,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+198,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+199,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+200,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+201,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+202,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+203,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+204,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+205,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+206,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+207,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+208,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+209,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+210,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+211,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+212,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+213,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+214,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+215,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+216,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+217,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+218,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+219,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+220,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+221,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+222,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+223,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+224,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+225,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+226,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+227,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+228,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+229,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+230,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+231,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+232,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+233,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+234,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+235,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+236,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+237,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+238,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+239,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+240,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+241,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+242,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+243,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+244,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+245,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+246,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+247,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+248,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+249,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+250,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+251,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+252,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+253,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+254,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+255,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+256,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+257,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+258,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+259,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+260,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+261,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+262,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+263,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+264,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+265,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+266,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+267,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+268,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+269,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+270,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+271,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+272,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+273,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+274,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+275,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+276,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+277,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+278,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+279,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+280,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+281,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+282,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+283,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+284,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+285,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+286,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+287,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+288,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+289,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+290,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+291,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+292,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+293,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+294,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+295,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+296,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+297,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+298,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+299,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+300,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+301,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+302,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+303,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+304,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+305,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+306,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+307,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+308,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+309,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+310,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+311,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+312,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+313,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+314,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+315,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+316,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+317,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+318,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+319,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+320,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+321,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+322,20.30 Monday 29 July,31 °C,Fog.,9 km/h,79%,1002 mbar
+323,20.00,31 °C,Fog.,7 km/h,79%,1002 mbar
+324,19.30,31 °C,Fog.,19 km/h,75%,1001 mbar
+325,19.00,31 °C,Broken clouds.,20 km/h,75%,1001 mbar
+326,18.30,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+327,18.00,32 °C,Broken clouds.,19 km/h,71%,1000 mbar
+328,17.30,33 °C,Broken clouds.,19 km/h,67%,999 mbar
+329,16.30,35 °C,Broken clouds.,20 km/h,60%,999 mbar
+330,16.00,36 °C,Broken clouds.,19 km/h,56%,999 mbar
+331,15.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+332,14.30,36 °C,Broken clouds.,19 km/h,53%,999 mbar
+333,14.00,36 °C,Scattered clouds.,24 km/h,53%,999 mbar
+334,13.30,36 °C,Scattered clouds.,19 km/h,56%,1000 mbar
+335,13.00,35 °C,Scattered clouds.,22 km/h,56%,1000 mbar
+336,12.30,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+337,12.00,35 °C,Scattered clouds.,19 km/h,56%,1001 mbar
+338,11.30,35 °C,Scattered clouds.,26 km/h,56%,1001 mbar
+339,11.00,35 °C,Scattered clouds.,19 km/h,56%,1002 mbar
+340,10.30,35 °C,Scattered clouds.,17 km/h,53%,1002 mbar
+341,10.00,35 °C,Scattered clouds.,19 km/h,53%,1002 mbar
+342,09.30,34 °C,Scattered clouds.,22 km/h,56%,1003 mbar
+343,09.00,32 °C,Scattered clouds.,22 km/h,63%,1003 mbar
+344,08.30,31 °C,Scattered clouds.,19 km/h,62%,1003 mbar
+345,08.00,30 °C,Scattered clouds.,13 km/h,66%,1003 mbar
+346,07.30,30 °C,Scattered clouds.,11 km/h,66%,1002 mbar
+347,07.00,29 °C,Scattered clouds.,9 km/h,70%,1002 mbar
+348,06.30,28 °C,Scattered clouds.,13 km/h,70%,1002 mbar
+349,06.00,28 °C,Passing clouds.,13 km/h,70%,1001 mbar
+350,05.30,29 °C,Passing clouds.,13 km/h,66%,1001 mbar
+351,05.00,29 °C,Passing clouds.,17 km/h,66%,1001 mbar
+352,04.30,29 °C,Passing clouds.,19 km/h,70%,1000 mbar
+353,04.00,30 °C,Passing clouds.,20 km/h,66%,1000 mbar
+354,03.30,30 °C,Passing clouds.,19 km/h,66%,1000 mbar
+355,02.30,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+356,02.00,30 °C,Partly cloudy.,19 km/h,66%,1000 mbar
+357,01.30,30 °C,Partly cloudy.,17 km/h,66%,1000 mbar
+358,01.00,30 °C,Partly cloudy.,20 km/h,66%,1001 mbar
+359,00.30,31 °C,Partly cloudy.,22 km/h,62%,1001 mbar
+360,00.00,31 °C,Partly cloudy.,19 km/h,62%,1001 mbar
+361,23.30 Sunday 28 July,31 °C,Partly cloudy.,20 km/h,62%,1001 mbar
+362,23.00,32 °C,Partly cloudy.,19 km/h,59%,1001 mbar
+363,22.30,32 °C,Partly cloudy.,20 km/h,59%,1001 mbar
+364,22.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+365,21.30,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+366,21.00,33 °C,Partly cloudy.,17 km/h,56%,1001 mbar
+367,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+368,01.40 Wednesday 9 September,30 °C,Passing clouds.,4 km/h,79%,1006 mbar
+369,11.40,34 °C,Clear.,11 km/h,59%,1007 mbar
+370,13.40,36 °C,Scattered clouds.,9 km/h,56%,1005 mbar
+371,14.40,37 °C,Scattered clouds.,11 km/h,47%,1004 mbar
+372,15.40,35 °C,Scattered clouds.,19 km/h,53%,1003 mbar
+373,16.40,34 °C,Passing clouds.,19 km/h,56%,1004 mbar
+374,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+375,00.10 Thursday 1 October,28 °C,Partly cloudy.,9 km/h,74%,1002 mbar
+376,00.40,28 °C,Partly cloudy.,9 km/h,74%,1002 mbar
+377,01.10,28 °C,Partly cloudy.,9 km/h,70%,1001 mbar
+378,01.40,28 °C,Passing clouds.,6 km/h,70%,1001 mbar
+379,02.10,28 °C,Passing clouds.,6 km/h,70%,1001 mbar
+380,04.40,27 °C,Partly cloudy.,9 km/h,74%,1001 mbar
+381,05.10,27 °C,Partly cloudy.,9 km/h,74%,1001 mbar
+382,05.40,27 °C,Partly cloudy.,7 km/h,74%,1001 mbar
+383,06.10,28 °C,Broken clouds.,7 km/h,70%,1001 mbar
+384,06.40,28 °C,Broken clouds.,7 km/h,70%,1002 mbar
+385,07.10,28 °C,Broken clouds.,7 km/h,70%,1002 mbar
+386,07.40,29 °C,Broken clouds.,11 km/h,66%,1002 mbar
+387,08.10,30 °C,Broken clouds.,11 km/h,62%,1002 mbar
+388,08.40,30 °C,Broken clouds.,13 km/h,62%,1003 mbar
+389,09.10,31 °C,Broken clouds.,15 km/h,55%,1002 mbar
+390,09.40,31 °C,Broken clouds.,19 km/h,55%,1002 mbar
+391,10.10,31 °C,Scattered clouds.,17 km/h,55%,1002 mbar
+392,10.40,32 °C,Scattered clouds.,22 km/h,52%,1002 mbar
+393,11.10,32 °C,Scattered clouds.,22 km/h,52%,1002 mbar
+394,11.40,32 °C,Scattered clouds.,22 km/h,52%,1001 mbar
+395,12.10,32 °C,Broken clouds.,20 km/h,52%,1001 mbar
+396,12.40,32 °C,Broken clouds.,17 km/h,52%,1000 mbar
+397,13.10,32 °C,Broken clouds.,15 km/h,52%,1000 mbar
+398,13.40,32 °C,Broken clouds.,19 km/h,55%,1000 mbar
+399,14.10,32 °C,Broken clouds.,19 km/h,55%,999 mbar
+400,14.40,32 °C,Broken clouds.,15 km/h,55%,999 mbar
+401,15.10,32 °C,Broken clouds.,19 km/h,59%,999 mbar
+402,15.40,32 °C,Broken clouds.,15 km/h,59%,999 mbar
+403,16.10,32 °C,Broken clouds.,15 km/h,59%,999 mbar
+404,16.40,31 °C,Broken clouds.,13 km/h,66%,999 mbar
+405,17.10,31 °C,Broken clouds.,11 km/h,66%,999 mbar
+406,17.40,30 °C,Partly sunny.,6 km/h,66%,1000 mbar
+407,18.10,30 °C,Passing clouds.,6 km/h,66%,1000 mbar
+408,18.40,30 °C,Passing clouds.,9 km/h,66%,1000 mbar
+409,19.10,30 °C,Passing clouds.,13 km/h,66%,1000 mbar
+410,19.40,30 °C,Passing clouds.,15 km/h,66%,1001 mbar
+411,20.10,30 °C,Passing clouds.,15 km/h,66%,1001 mbar
+412,21.10,30 °C,Passing clouds.,11 km/h,62%,1002 mbar
+413,21.40,30 °C,Passing clouds.,19 km/h,59%,1002 mbar
+414,22.10,30 °C,Passing clouds.,9 km/h,59%,1003 mbar
+415,22.40,30 °C,Passing clouds.,7 km/h,59%,1003 mbar
+416,23.10,30 °C,Passing clouds.,13 km/h,62%,1003 mbar
+417,23.40,31 °C,Passing clouds.,13 km/h,59%,1002 mbar
+418,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+419,00.10 Sunday 1 November,27 °C,Passing clouds.,6 km/h,89%,1011 mbar
+420,00.40,27 °C,Passing clouds.,No wind,89%,1011 mbar
+421,01.10,27 °C,Passing clouds.,No wind,89%,1011 mbar
+422,01.40,27 °C,Haze.,No wind,89%,1010 mbar
+423,02.40,27 °C,Passing clouds.,No wind,84%,1010 mbar
+424,03.10,27 °C,Passing clouds.,No wind,84%,1010 mbar
+425,03.40,26 °C,Passing clouds.,No wind,89%,1010 mbar
+426,04.10,26 °C,Fog.,No wind,89%,1010 mbar
+427,04.40,26 °C,Fog.,No wind,89%,1010 mbar
+428,05.10,26 °C,Fog.,No wind,89%,1010 mbar
+429,05.40,26 °C,Fog.,No wind,89%,1011 mbar
+430,06.10,26 °C,Fog.,No wind,89%,1011 mbar
+431,06.40,26 °C,Fog.,No wind,89%,1011 mbar
+432,07.10,27 °C,Fog.,No wind,84%,1012 mbar
+433,07.40,27 °C,Fog.,No wind,84%,1013 mbar
+434,08.10,27 °C,Fog.,No wind,84%,1013 mbar
+435,08.40,27 °C,Fog.,No wind,89%,1014 mbar
+436,09.10,28 °C,Fog.,No wind,84%,1014 mbar
+437,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+438,00.10 Tuesday 1 December,24 °C,Haze.,No wind,89%,1014 mbar
+439,00.40,24 °C,Haze.,No wind,89%,1014 mbar
+440,01.10,24 °C,Haze.,No wind,83%,1013 mbar
+441,01.40,24 °C,Haze.,No wind,83%,1013 mbar
+442,02.10,23 °C,Haze.,No wind,89%,1012 mbar
+443,02.40,23 °C,Haze.,6 km/h,94%,1012 mbar
+444,03.10,23 °C,Haze.,No wind,94%,1012 mbar
+445,03.40,23 °C,Passing clouds.,No wind,94%,1013 mbar
+446,04.40,23 °C,Passing clouds.,7 km/h,94%,1013 mbar
+447,05.10,23 °C,Passing clouds.,7 km/h,94%,1013 mbar
+448,05.40,23 °C,Passing clouds.,7 km/h,94%,1013 mbar
+449,06.10,23 °C,Passing clouds.,7 km/h,94%,1012 mbar
+450,06.40,23 °C,Scattered clouds.,6 km/h,94%,1014 mbar
+451,07.10,23 °C,Scattered clouds.,6 km/h,94%,1015 mbar
+452,07.40,23 °C,Broken clouds.,6 km/h,94%,1015 mbar
+453,08.10,23 °C,Broken clouds.,6 km/h,94%,1015 mbar
+454,08.40,24 °C,Broken clouds.,7 km/h,89%,1016 mbar
+455,09.10,25 °C,Broken clouds.,6 km/h,83%,1016 mbar
+456,09.40,25 °C,Broken clouds.,7 km/h,89%,1016 mbar
+457,10.10,26 °C,Broken clouds.,9 km/h,84%,1015 mbar
+458,11.10,27 °C,Broken clouds.,15 km/h,74%,1015 mbar
+459,11.40,27 °C,Broken clouds.,17 km/h,79%,1014 mbar
+460,12.10,27 °C,Broken clouds.,15 km/h,79%,1014 mbar
+461,13.10,29 °C,Broken clouds.,19 km/h,66%,1013 mbar
+462,13.40,28 °C,Broken clouds.,11 km/h,70%,1013 mbar
+463,14.10,28 °C,Broken clouds.,17 km/h,70%,1012 mbar
+464,14.40,28 °C,Broken clouds.,11 km/h,70%,1012 mbar
+465,15.10,28 °C,Drizzle. More clouds than sun.,15 km/h,66%,1012 mbar
+466,16.10,26 °C,Drizzle. More clouds than sun.,6 km/h,79%,1012 mbar
+467,16.40,25 °C,Drizzle. More clouds than sun.,No wind,89%,1012 mbar
+468,17.10,25 °C,Rain. More clouds than sun.,9 km/h,89%,1012 mbar
+469,17.40,25 °C,Rain. More clouds than sun.,6 km/h,89%,1012 mbar
+470,18.10,25 °C,Drizzle. Mostly cloudy.,No wind,89%,1012 mbar
+471,18.40,25 °C,Drizzle. Mostly cloudy.,No wind,89%,1013 mbar
+472,19.10,25 °C,Drizzle. Mostly cloudy.,No wind,89%,1013 mbar
+473,19.40,25 °C,Drizzle. Mostly cloudy.,No wind,89%,1014 mbar
+474,20.10,25 °C,Drizzle. Mostly cloudy.,11 km/h,89%,1014 mbar
+475,21.10,25 °C,Mostly cloudy.,11 km/h,89%,1014 mbar
+476,21.40,25 °C,Mostly cloudy.,11 km/h,89%,1014 mbar
+477,22.10,26 °C,Mostly cloudy.,15 km/h,84%,1014 mbar
+478,22.40,26 °C,Partly cloudy.,11 km/h,84%,1014 mbar
+479,23.10,25 °C,Partly cloudy.,7 km/h,89%,1014 mbar
+480,23.40,25 °C,Partly cloudy.,11 km/h,89%,1014 mbar
+481,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
+482,00.40 Friday 1 January,23 °C,Haze.,No wind,94%,1012 mbar
+483,01.10,23 °C,Haze.,No wind,94%,1012 mbar
+484,01.40,23 °C,Haze.,,94%,1012 mbar
+485,02.10,23 °C,Haze.,No wind,94%,1011 mbar
+486,02.40,23 °C,Haze.,No wind,89%,1011 mbar
+487,03.40,22 °C,Haze.,No wind,100%,1011 mbar
+488,04.40,22 °C,Haze.,No wind,100%,1011 mbar
+489,05.10,22 °C,Haze.,No wind,100%,1011 mbar
+490,07.10,22 °C,Fog.,4 km/h,100%,1013 mbar
+491,07.40,22 °C,Fog.,No wind,100%,1014 mbar
+492,08.10,23 °C,Fog.,No wind,100%,1014 mbar
+493,09.10,25 °C,Haze.,No wind,89%,1015 mbar
+494,09.40,25 °C,Scattered clouds.,No wind,89%,1015 mbar
+495,10.40,27 °C,Scattered clouds.,15 km/h,74%,1015 mbar
+496,11.10,28 °C,Scattered clouds.,19 km/h,66%,1015 mbar
+497,12.10,29 °C,Scattered clouds.,13 km/h,66%,1014 mbar
+498,12.40,28 °C,Scattered clouds.,19 km/h,66%,1013 mbar
+499,13.10,28 °C,Scattered clouds.,19 km/h,66%,1013 mbar
+500,13.40,29 °C,Scattered clouds.,15 km/h,62%,1012 mbar
+501,14.10,29 °C,Passing clouds.,15 km/h,62%,1012 mbar
+502,14.40,29 °C,Passing clouds.,13 km/h,62%,1011 mbar
+503,15.10,28 °C,Passing clouds.,19 km/h,66%,1011 mbar
+504,15.40,28 °C,Passing clouds.,15 km/h,66%,1011 mbar
+505,16.10,28 °C,Passing clouds.,19 km/h,66%,1011 mbar
+506,16.40,27 °C,Passing clouds.,19 km/h,70%,1011 mbar
+507,17.10,27 °C,Passing clouds.,13 km/h,70%,1012 mbar
+508,17.40,26 °C,Passing clouds.,13 km/h,74%,1012 mbar
+509,18.10,26 °C,Passing clouds.,9 km/h,74%,1012 mbar
+510,18.40,26 °C,Passing clouds.,9 km/h,74%,1013 mbar
+511,19.10,25 °C,Passing clouds.,7 km/h,83%,1013 mbar
+512,19.40,25 °C,Passing clouds.,7 km/h,83%,1014 mbar
+513,20.10,25 °C,Passing clouds.,7 km/h,83%,1014 mbar
+514,20.40,25 °C,Passing clouds.,6 km/h,83%,1014 mbar
+515,21.10,25 °C,Passing clouds.,6 km/h,83%,1014 mbar
+516,21.40,24 °C,Passing clouds.,7 km/h,89%,1015 mbar
+517,22.10,24 °C,Passing clouds.,7 km/h,94%,1015 mbar
+518,22.40,24 °C,Passing clouds.,No wind,94%,1014 mbar
+519,23.10,24 °C,Passing clouds.,No wind,94%,1014 mbar
+520,23.40,24 °C,Passing clouds.,No wind,89%,1014 mbar
+521,"Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024","Weather by CustomWeather, © 2024"
